@@ -156,7 +156,7 @@ This project is dedicated to the open-source community. We aim to build and main
 
     ```bash 
     ```bash 
-    git clone https://github.com/YourUsername/Awesome_Agent_Rag_LMMs_apps.git 
+    git clone https://github.com/MrBozkay/Awesome_Agent_Rag_LMMs_apps.git 
     ```
 
 2. **Navigate to the desired project directory**
