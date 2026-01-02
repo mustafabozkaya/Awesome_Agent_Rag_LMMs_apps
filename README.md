@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="docs/banner/awesome_agent_banner_v2.png" width="100%" alt="Awesome Agent RAG & LLM Apps">
+</p>
+
 <hr/>
 
 # 🌟 Awesome Agent RAG & LLM Apps
