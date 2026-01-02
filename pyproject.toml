@@ -1,0 +1,26 @@
+[project]
+name = "awesome_agent_rag_lmms_apps"
+version = "0.1.0"
+description = "Collection of LLM applications and agents"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "streamlit",
+    "google-genai",
+    "openai",
+    "duckduckgo-search",
+    "phidata",
+    "crewai",
+    "langchain",
+    "langgraph",
+    "pydantic",
+    "requests",
+    "python-dotenv"
+]
+
+[tool.uv]
+dev-dependencies = [
+    "pytest",
+    "black",
+    "isort"
+]
