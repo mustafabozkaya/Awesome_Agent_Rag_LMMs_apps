@@ -15,7 +15,16 @@ dependencies = [
     "langgraph",
     "pydantic",
     "requests",
-    "python-dotenv"
+    "python-dotenv",
+    "agno",
+    "google-search-results",
+    "icalendar",
+    "yfinance",
+    "beautifulsoup4",
+    "pandas",
+    "numpy",
+    "browser-use",
+    "langchain-community"
 ]
 
 [tool.uv]
