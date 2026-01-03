@@ -16,7 +16,7 @@ This project is dedicated to the open-source community. We aim to build and main
 
 - 💡 **Learn by Example**: Practical implementations of complex AI patterns.
 - 🔥 **Multi-Provider Support**: Projects designed to work with OpenAI, Gemini, Ollama, and more.
-- 🤝 **Community First**: Open for contributions and improvements.
+- 🤝 **Community First**: Open for contributions and improvements. [Read our Contribution Guidelines](CONTRIBUTING.md).
 
 
 ## 📂 Featured AI Projects
